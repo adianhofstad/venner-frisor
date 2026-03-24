@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="32" fill="#faf6f2"/>
+  <g transform="translate(32,32)">
+    <!-- 5 petals -->
+    <ellipse cx="0" cy="-14" rx="8" ry="14" fill="#e8c4b8" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-14" rx="8" ry="14" fill="#e8c4b8" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-14" rx="8" ry="14" fill="#e8c4b8" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-14" rx="8" ry="14" fill="#e8c4b8" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-14" rx="8" ry="14" fill="#e8c4b8" transform="rotate(288)"/>
+    <!-- inner petals -->
+    <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#c9908a" opacity="0.6" transform="rotate(36)"/>
+    <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#c9908a" opacity="0.6" transform="rotate(108)"/>
+    <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#c9908a" opacity="0.6" transform="rotate(180)"/>
+    <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#c9908a" opacity="0.6" transform="rotate(252)"/>
+    <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#c9908a" opacity="0.6" transform="rotate(324)"/>
+    <!-- center -->
+    <circle cx="0" cy="0" r="5" fill="#a66b6a"/>
+    <circle cx="0" cy="0" r="3" fill="#c9908a"/>
+    <!-- stamens -->
+    <circle cx="2" cy="-3" r="1" fill="#faf6f2" opacity="0.7"/>
+    <circle cx="-2" cy="-2" r="1" fill="#faf6f2" opacity="0.7"/>
+    <circle cx="1" cy="2" r="1" fill="#faf6f2" opacity="0.7"/>
+  </g>
+</svg>
